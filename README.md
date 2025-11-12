@@ -6,6 +6,9 @@ The primary goal is to create a modern, cross-platform desktop application using
 
 The application provides a comprehensive, multi-page wizard interface (GUI) to input all necessary NPC data, select image files, and generate a complete, ready-to-use Content Patcher mod folder.
 
+<img width="1271" height="748" alt="Screenshot-from-2025-11-12 19-36-40" src="https://github.com/user-attachments/assets/28d31491-28ff-4f99-9937-67715d8d96e3" />
+
+
 ## Features
 
   * **Cross-Platform GUI:** Built with Avalonia UI, allowing the application to run on Windows, macOS, and Linux.
