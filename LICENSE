@@ -1,28 +1,24 @@
-License
--------
+Custom Software License for Stardew NPC Maker
 
-MIT License
+Copyright (c) 2025 TamKungZ_ (The "Author")
 
-© 2024 TamKungZ_
+This license governs your use of the "Stardew NPC Maker" software and its source code (hereafter "the Software"), provided by the Author.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for the sole purpose of studying and understanding the Software's processes, subject to the following conditions:
+By using, copying, or modifying the Software, you agree to the terms of this license.
 
-1.  Redistribution: The Software may not be distributed, republished, or shared in any form or by any means, including but not limited to electronic, mechanical, photocopying, recording, or other means, without the prior written permission of the copyright owner.
+1. Granted Rights
+- You are granted the following rights, subject to the restrictions in Section 2:
+- Right to Use: You may use and run the Software for personal, non-commercial purposes.
+- Right to Study: You may read and study the Software's source code.
+- Right to Modify and Contribute: You may modify the Software. You are permitted and encouraged to submit these modifications back to the Author's main repository (https://www.google.com/search?q=https://github.com/TamKungZ/NPCmaker-CS) via Pull Request to be merged into the main project.
 
-2.  Commercial Use: The Software may not be used for commercial purposes. This includes, but is not limited to, selling, licensing, renting, or any other form of commercial exploitation.
+2. Restrictions (Forbidden Uses)
+- Your rights are subject to the following restrictions:
+- No Commercial Use: You may not use the Software for any commercial purpose. This includes, but is not limited to, selling the Software, licensing it for a fee, using it in a commercial project, or any other form of commercial exploitation.
+- No Independent Distribution (No Separate Forks): You may not distribute, republish, share, or publicly host a modified or unmodified version of the Software as a separate project, repository, or product. All public distribution and development must be approved by the Author and merged into the main repository.
+- No Sublicensing: You may not sublicense the Software or grant any of these rights to another person.
 
-3.  Modification: The Software may not be modified, adapted, translated, or altered in any way without the prior written permission of the copyright owner.
+3. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
-4.  Attribution: Users of the Software must not claim authorship, endorsement, or association with the Software's creator, TamKungZ_, in any derivative works or associated materials.
-
-5.  No Warranty: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
-
-6.  Compliance: Any use of the Software must comply with all applicable laws, regulations, and policies.
-
-This license shall automatically terminate if you violate any of these restrictions and may be terminated by the copyright owner at any time.
-
-For permissions beyond the scope of this license, you must obtain explicit written consent from TamKungZ_.
-
-Project uploaded on GitHub for the sole purpose of study and process understanding. For any other use, please contact the creator.
-
-Contact Information: [[Contact TamKungZ_]](https://linktr.ee/TamKungZ_)
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
