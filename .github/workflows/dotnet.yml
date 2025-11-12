@@ -1,4 +1,4 @@
-name: Build and Publish Avalonia App
+name: Build and Publish NPCMaker
 
 on:
   push:
@@ -24,16 +24,16 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: Restore dependencies
-      run: dotnet restore NPCMaker/NPCMaker.csproj
+      run: dotnet restore NPCMaker.csproj
 
     - name: Build
-      run: dotnet build NPCMaker/NPCMaker.csproj --configuration Release
+      run: dotnet build NPCMaker.csproj --configuration Release
 
     - name: Publish for ${{ matrix.runtime }}
-      run: dotnet publish NPCMaker/NPCMaker.csproj -c Release -r ${{ matrix.runtime }} --self-contained true
+      run: dotnet publish NPCMaker.csproj -c Release -r ${{ matrix.runtime }} --self-contained true
 
     - name: Upload published app
       uses: actions/upload-artifact@v4
       with:
         name: NPCMaker-${{ matrix.runtime }}
-        path: NPCMaker/bin/Release/net8.0/${{ matrix.runtime }}/publish/
+        path: bin/Release/net8.0/${{ matrix.runtime }}/publish/
