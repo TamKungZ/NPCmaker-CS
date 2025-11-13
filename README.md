@@ -2,6 +2,15 @@
   <img src="https://tamkungz.github.io/image/avalonia-logo.webp" width="150" height="150" alt="Logo-Icon">
 </p>
 
+<p align="center">
+  <a href="https://tamkungz.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/TamKungZ"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linktr.ee/TamKungZ_"><img src="https://img.shields.io/badge/Linktree-00b159?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"></a>
+  <a href="https://x.com/tamkungz_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://buymeacoffee.com/tamkungz_"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
+  <a href="https://ko-fi.com/tamkungz"><img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+</p>
+
 <h1 align="center">Stardew NPC Maker</h1>
 
 <p align="center">The easiest way to create custom NPCs for Stardew Valley. No coding required.</p>
