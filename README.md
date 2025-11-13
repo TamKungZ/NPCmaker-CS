@@ -7,7 +7,7 @@
 <p align="center">The easiest way to create custom NPCs for Stardew Valley. No coding required.</p>
 
 <p align="center">
-  <img src="https://tamkungz.github.io/image/app-preview.png" width="750" height="300" alt="app-preview">
+  <img src="https://tamkungz.github.io/image/app-preview.png" alt="app-preview" style="width:75%; height:auto;">
 </p>
 
 ## What is this?
